@@ -27,6 +27,16 @@ Con esta App podras controlar tus gastos y hacer un plan de ahorro para planear 
 
 * Un apartado con notacias e inversiones como (ETFs, Aciones y Criptos), asi podras decidir tu mejor metodo para invertir.
 
+* | Funcionalidad                  | ¿Mantener ahora?     | Motivo                        |
+| ------------------------------ | -------------------- | ----------------------------- |
+| Gestor de ingresos y gastos    | ✅ Sí                 | Núcleo de la app              |
+| Metas de ahorro                | ✅ Sí                 | Aporta valor inmediato        |
+| Noticias financieras           | 🚫 No (posponer)     | Alta carga, poco retorno      |
+| Valor de acciones/ETFs/Criptos | 🚫 No (posponer)     | APIs externas y mantenimiento |
+| Comunidad / comentarios        | ⚙️ Sí (si es simple) | Fomenta uso y engagement      |
+| Educación / consejos básicos   | ✅ Reemplazo ideal    | Fácil, útil y sin APIs        |
+
+
 ### :clipboard: Requisitos
 ---
 Para ejecutar correctamente el proyecto, asegúrate de tener instalado:
